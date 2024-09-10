@@ -1,4 +1,4 @@
-# Student Management System
+# Student Management System ny pankaj sharma
 
 > This is a simple web-based open source software written in PHP and JavaScript. This was specifically written for school or educational organization. You can easily install this system in your own server.
 
